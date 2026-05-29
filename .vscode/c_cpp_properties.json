@@ -1,0 +1,18 @@
+{
+	"configurations": [
+		{
+			"name": "Win32",
+			"includePath": [
+				"${workspaceFolder}/**",
+				"D:/libs/ffmpeg/ffmpeg-7.1.1-full_build-shared/include",
+				"${workspaceFolder}/node_modules/node-addon-api"
+			],
+			"defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+			"compilerPath": "D:/env/msys64/ucrt64/bin/g++.exe",
+			"intelliSenseMode": "windows-gcc-x64",
+			"cStandard": "c17",
+			"cppStandard": "c++20"
+		}
+	],
+	"version": 4
+}
